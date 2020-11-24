@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1606164017 source:c:\users\daniel\documents\projetos c temporarios\janela\main.c
+	<stdio.h>
+	<windows.h>
+	"string.h"
+	"unistd.h"
+	"ctype.h"
+	"utilidades.h"
+	"funcionarios.h"
+	"pacientes.h"
+	"design.h"
+	"telaCadastro.h"
+	"telaLogin.h"
+	"menuPacientes.h"
+	"menu_principal.h"
+
+1606160799 c:\users\daniel\documents\projetos c temporarios\janela\utilidades.h
+
+1606079281 c:\users\daniel\documents\projetos c temporarios\janela\funcionarios.h
+
+1606162600 c:\users\daniel\documents\projetos c temporarios\janela\pacientes.h
+
+1606075085 c:\users\daniel\documents\projetos c temporarios\janela\design.h
+	<windows.h>
+
+1606164031 c:\users\daniel\documents\projetos c temporarios\janela\telacadastro.h
+
+1606164005 c:\users\daniel\documents\projetos c temporarios\janela\telalogin.h
+
+1606166344 c:\users\daniel\documents\projetos c temporarios\janela\menupacientes.h
+
+1606172639 c:\users\daniel\documents\projetos c temporarios\janela\menu_principal.h
+	"menu_funcionarios.h"
+
+1606163996 c:\users\daniel\documents\projetos c temporarios\janela\menu_funcionarios.h
+
