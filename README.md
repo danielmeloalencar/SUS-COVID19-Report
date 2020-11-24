@@ -2,7 +2,7 @@
  Sistema em C para registro de pacientes com COVID-19 e geração de grupo de risco (UNIP - Universidade Paulista)  
 
  **Requisitos**  
- CodeBlocks - [Baixe aqui](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/)codeblocks-20.  03mingw-setup.exe  
+ CodeBlocks - [Baixe aqui](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe)  
 
 
 **Como compilar**  
