@@ -5,7 +5,7 @@
  CodeBlocks - http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.  03mingw-setup.exe  
 
 
-**Como compilar**
+**Como compilar**  
 Simplesmente abra o Codeblocks, vá no menu **File** > **Open...**  
 E selecione o arquivo do projeto **covid19Report.cbp**  
 Depois de abrir o arquivo do projeto, pressione **F9** para compilar e executar   
